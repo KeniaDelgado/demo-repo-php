@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <div>
+        <h1>Hello</h1>
+    </div>
     <?php
     echo "<h3> Hola mundo </h3><br>";
     //Constantes
